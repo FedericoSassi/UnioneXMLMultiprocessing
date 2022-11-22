@@ -13,15 +13,17 @@ Creando il file CSV completo delle informazioni necessarie.
 
 ## Richiesta
 
+L'azienda ha la necessità di estrarre alcuni dati da numerosi file XML per poter eseguire controlli incrociati.
 
+Il problema della lavorazione si identifica nella grande quantità di file da processare e nelle dimensioni di alcuni di essi.
+Si è provato con Excel ma visto l'enorme numero di righe presenti non si è potuto fare.
 
-## Specifiche dati
+## Elaborazione
 
+Utilizzando lo script nel progetto, tutti i file sono stati elaborati in circa 11 minuti producendo il file csv completo.
+Questo file ha una dimensione di circa 2.800.000 righe, pertanto anche i calcoli per i controlli incrociati sono stati eseguiti con l'utilizzo di python.
 
-
-## Conclusione
-
-
+Questo lo script utilizzato -> [Script Multiprocessing]()
 
 ## Macchina utilizzata
 
