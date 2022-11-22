@@ -1,10 +1,10 @@
 # Contenuti
-1. [Introduzione al progetto](#Introduzione-al-progetto)
-2. [Richiesta](#Richiesta)
-3. [Specifiche dati](#Specifiche-dati)
-4. [Conclusione](#Conclusione)
-5. [Macchina utilizzata](#Macchina-utilizzata
-6. [Possibili implementazioni](Possibili-implementazioni)
+1. [Introduzione al progetto](README.md#introduzione-al-progetto)
+2. [Richiesta](README.md#richiesta)
+3. [Specifiche dati](README.md#specifiche-dati)
+4. [Conclusione](README.md#conclusione)
+5. [Macchina utilizzata](README.md#macchina-utilizzata)
+6. [Possibili implementazioni](README.md#possibili-implementazioni)
 
 # Introduzione al progetto
 
