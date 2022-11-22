@@ -1,3 +1,11 @@
+# Contenuti
+1. [Introduzione al progetto](#Introduzione-al-progetto)
+2. [Richiesta](#Richiesta)
+3. [Specifiche dati](#Specifiche-dati)
+4. [Conclusione](#Conclusione)
+5. [Macchina utilizzata](#Macchina-utilizzata
+6. [Possibili implementazioni](Possibili-implementazioni)
+
 # Introduzione al progetto
 
 Il progetto prevede l'elaborazione di file XML con l'estrazione di alcuni dati tramite la libreria MultiProcessing.
