@@ -16,3 +16,15 @@ Creando il file CSV completo delle informazioni necessarie.
 
 
 ## Macchina utilizzata
+
+Nel progetto si è utilizzata una macchina virtuale con le seguenti specifiche:
+- SO: Linux / Ubuntu
+- CPU: 16
+- RAM: 256 mb
+
+Si è scelto questo tipo di macchina perché è a disposizione dell'azienda e per la mole di file, sia di numero che di dimensione, che vengono elaborati.
+
+## Possibili implementazioni
+
+Il progetto è impostato per girare una tantum, però le possibili implementazioni sono tante.
+Una su tutte è la schedulazione di Job che ciclicamente caricano i dati su un Database in stile ETL, così da poterli analizzare o utilizzare in task di controllo.
