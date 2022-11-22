@@ -23,7 +23,7 @@ Si è provato con Excel ma visto l'enorme numero di righe presenti non si è pot
 Utilizzando lo script nel progetto, tutti i file sono stati elaborati in circa 11 minuti producendo il file csv completo.
 Questo file ha una dimensione di circa 2.800.000 righe, pertanto anche i calcoli per i controlli incrociati sono stati eseguiti con l'utilizzo di python.
 
-Questo lo script utilizzato -> [Script Multiprocessing]()
+Questo lo script utilizzato -> [Script Multiprocessing](https://github.com/FedericoSassi/UnioneXMLMultiprocessing/blob/main/Script.py)
 
 ## Macchina utilizzata
 
